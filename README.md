@@ -12,8 +12,7 @@ Key Metrics Analysis: Track revenue, orders, and trends.
 User-Friendly Interface: Well-structured and easy to navigate.
 
 # File Details
-
-Amazon Sales Dashboard.twb – Tableau Workbook file containing the dashboard.
+- <a href="https://github.com/Anwayarath023/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20data_Amazon%20Sales%20data.csv">DATASET</a>
 
 # About Me
 
