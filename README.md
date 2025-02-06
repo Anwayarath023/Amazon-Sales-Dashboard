@@ -14,6 +14,9 @@ User-Friendly Interface: Well-structured and easy to navigate.
 # File Details
 - <a href="https://github.com/Anwayarath023/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20data_Amazon%20Sales%20data.csv">DATASET</a>
 
+# Dashboard Link(Tableau)
+
+
 # About Me
 
 I am an aspiring Global Logistics Analyst, passionate about data visualization, logistics, and business intelligence. Additionally, I have a keen interest in photography, video editing, and graphic design. I am also starting a beginner graphic design Instagram account to showcase my creative work.
